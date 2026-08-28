@@ -4,8 +4,6 @@ Aplicação web simples que permite buscar informações sobre filmes usando a O
 
 🔗 **[Ver projeto ao vivo](https://arthurgoncalvestech.github.io/buscador-filmes/)**
 
-![Preview do projeto](assets/screenshot.png)
-
 ## Funcionalidades
 
 - Busca de filmes por nome
